@@ -583,7 +583,7 @@ nav ul li a:hover {
 
 
 /* Responsive Layout */
-@media (max-width: 100%) {
+@media (max-width: 768px) {
   .contact-grid {
     grid-template-columns: 1fr; /* stack on mobile */
   }
@@ -599,4 +599,5 @@ footer {
   padding: 1rem 0;
   margin-top: 2rem;
 }
+
 
